@@ -10,4 +10,5 @@ public class Test {
 				+ "爲什麽呢？難道是因爲，今天更新jre，然後沒更新成功？");
 		Date d = new Date();
 	}
+	
 }
